@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/20220907-beer-api/static/css/main.8d3d50e0.css",
+    "main.js": "/20220907-beer-api/static/js/main.b5b44264.js",
+    "static/js/787.9929e4a4.chunk.js": "/20220907-beer-api/static/js/787.9929e4a4.chunk.js",
+    "static/media/picture1.png": "/20220907-beer-api/static/media/picture1.a28e8117463d8efe6806.png",
+    "static/media/picture2.png": "/20220907-beer-api/static/media/picture2.7a17fa32a9c1accc324d.png",
+    "index.html": "/20220907-beer-api/index.html",
+    "main.8d3d50e0.css.map": "/20220907-beer-api/static/css/main.8d3d50e0.css.map",
+    "main.b5b44264.js.map": "/20220907-beer-api/static/js/main.b5b44264.js.map",
+    "787.9929e4a4.chunk.js.map": "/20220907-beer-api/static/js/787.9929e4a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3d50e0.css",
+    "static/js/main.b5b44264.js"
+  ]
+}
