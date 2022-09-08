@@ -1,0 +1,35 @@
+.clsProductDetails {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.clsProductDetails img {
+    max-width: 30%;
+    margin-top: 4vh;
+    max-height: 67vh;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+.clsHeaderSingleProduct {
+    font-size: 2.3rem;
+}
+
+.clsHeaderSingleProduct .clsTagLine {
+    background-color: rgb(255, 225, 0);
+    font-weight: 800;
+}
+
+.clsDivGrey {
+    display: flex;
+    justify-content: space-between;
+}
+
+.clsGrey {
+    color: grey;
+}
+
+.clsDiv2 {
+    margin-left: 5vw;
+}

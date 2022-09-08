@@ -1,0 +1,8 @@
+.clsBack {
+    height: 5vh;
+    height: 9vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 5vw;
+}

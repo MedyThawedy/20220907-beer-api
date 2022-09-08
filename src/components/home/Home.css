@@ -1,0 +1,36 @@
+.divHome {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 5vh;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.divHome a {
+    width: 60vw;
+    text-decoration: none;
+}
+
+.clsHeader {
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    background-color: rgb(255, 225, 0);
+    padding: 9px;
+    margin-top: -10px;
+}
+
+.clsAllBeers,
+.clsRandomBeer {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.divHome img {
+    width: 100%;
+}
+
+.divHome p {
+    margin-top: -1vh;
+    color: black;
+}
